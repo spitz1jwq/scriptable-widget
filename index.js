@@ -3,8 +3,8 @@
 // icon-color: orange icon-glyph: quote-right
 
 const User = 'USER'
-const City = 'beijing'
-const WeatherKey = '' // you can get it from https://dev.heweather.com/
+const City = 'huaian'
+const WeatherKey = 'fec14da4c8fc47e6803a754e493e0d42' // you can get it from https://dev.heweather.com/
 const AQIToken = '' // you can get it from https://aqicn.org/data-platform/token/#/
 
 const aqi = await getAQI()
